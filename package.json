@@ -1,0 +1,11 @@
+{
+  "name": "sit725-t1-2023-prac2-sl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
